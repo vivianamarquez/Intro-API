@@ -23,7 +23,3 @@ OPENAI_API_KEY=your-key-here
 ```
 
 Do not commit `.env`. Use `.env.example` as the shareable template.
-
-## Run
-
-Open the notebooks in Jupyter or VS Code and run them in order.
